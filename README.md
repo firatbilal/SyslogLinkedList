@@ -1,6 +1,6 @@
 # Syslog Veri İşleme ve Bağlı Liste Yönetimi
 
-Bu proje, bir syslog dosyasını okuyarak her satırı bağlı listeye ekleyip, ardından bu verileri ekrana yazdıran bir C programını içerir.
+Bu proje, bir syslog dosyasını okuyarak her satırı bağlı listeye ekleyen ve ardından bu verileri ekrana yazdıran bir C programıdır. Program, log verilerini işleyerek bağlantılı liste veri yapısında saklar ve bu yapıdaki verileri sıralı olarak çıktı verir. Syslog dosyalarını analiz etme, işleme ve izleme amacıyla kullanılabilecek bir araçtır.
 
 ## İçindekiler
 - [Kurulum](#kurulum)
